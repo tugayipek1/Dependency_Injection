@@ -1,0 +1,6 @@
+com\bocek\api\Message.class
+com\bocek\api\MessageImpl2.class
+com\bocek\api\MessageImpl.class
+com\bocek\api\Print.class
+com\bocek\api\PrintBImpl.class
+com\bocek\api\PrintAImpl.class
